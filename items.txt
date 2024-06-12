@@ -1,0 +1,27 @@
+50
+25
+24; 11; Toga Rektora
+26; 4; Tablica z kredą
+28; 2; Stara książka w bibliotece
+4; 3; Laptop wykładowcy
+12; 4; Kawa z automatu
+16; 4; Projektor z sali wykładowej
+17; 12; Mikrofon do wykładów
+7; 6; Mysz komputerowa
+18; 4; Biurko dziekana
+27; 5; Flagi państwowe z sali wykładowej
+30; 3; Stary monitor CRT
+17; 9; Tablica interaktywna
+4; 10; Drzwi od sali wykładowej
+12; 5; Kreda do tablicy
+9; 11; Krzesło ergonomiczne
+11; 2; Głośnik z auli
+3; 5; Rzutnik slajdów
+8; 1; Stolik z kawiarni
+21; 8; Znacznik do markerów
+5; 12; Automat z napojami
+27; 6; Kolega z ławki
+29; 5; Fajka wykładowcy
+15; 7; Korona rektora
+29; 12; Sztandar uczelni
+9; 11; Kubek z napisem 'Najlepszy wykładowca'
